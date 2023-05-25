@@ -306,7 +306,7 @@ Hint: DINOCPU simulations output the number of cycles, and does not output the n
 
 Create a graph representing the IPC of the Non Combinational CPU in 4 systems described above with the stream-64-stride-1-noverify.riscv benchmark and the stream-64-stride-4-noverify.riscv benchmark. The X-axis should be grouped by systems.
 
-![Fig. 4](_assets/assignment4-mem-interface.svg)
+![Fig. 4](_assets/assignment4-CPI-graph-example.svg)
 
 **Figure 4.** An example of a IPC graph with the collected data. The data on the graph are not the real IPC of running the mentioned benchmarks on the four systems.
 
